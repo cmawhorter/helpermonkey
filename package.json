@@ -1,0 +1,33 @@
+{
+  "name": "helpermonkey",
+  "version": "0.0.1",
+  "description": "Takes a standardized JSON structure and generates stubbed servers, and full-featured clients in a variety of languages.",
+  "keywords": [
+    "code generator",
+    "api",
+    "rest"
+  ],  
+  "homepage": "https://github.com/cmawhorter/helpermonkey",
+  "author": "Cory Mawhorter <cory.mawhorter@gmail.com> (http://www.mawhorter.net)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmawhorter/helpermonkey"
+  },
+  "bugs": {
+    "url": "https://github.com/cmawhorter/helpermonkey"
+  },
+  "main": "./lib/helpermonkey.js",
+  "bin": "./bin/helpermonkey-cli.js",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/cmawhorter/helpermonkey/raw/master/LICENSE"
+    }
+  ]
+}
