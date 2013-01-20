@@ -15,11 +15,11 @@ I hope to expand this list to include all the biggies in both client and server.
 
 ### Clients
 
-**PHP
++ PHP
 
 ### Servers
 
-**None
++ None
 
 ## Versioning
 
