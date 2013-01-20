@@ -1,3 +1,0 @@
-[submodule "vendors/php/guzzle"]
-	path = vendors/php/guzzle
-	url = git://github.com/guzzle/guzzle.git
