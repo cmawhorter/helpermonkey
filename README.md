@@ -3,6 +3,7 @@ helpermonkey
 
 Writing boilerplate code sucks.  helpermonkey was built to make writing REST APIs (and the clients that contact them) a little easier.  [ This project is very alpha right now. ]
 
+![image](http://25.media.tumblr.com/tumblr_kpwg1kT1ao1qzvqipo1_500.jpg)
 
 ## How does it work
 
@@ -19,8 +20,6 @@ I hope to expand this list to include all the biggies in both client and server.
 ### Servers
 
 ** PHP
-
-![image](http://25.media.tumblr.com/tumblr_kpwg1kT1ao1qzvqipo1_500.jpg)
 
 ## Versioning
 
