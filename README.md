@@ -35,10 +35,6 @@ And constructed with the following guidelines:
 
 For more information on semantic versioning, please visit http://semver.org/.
 
-## Possible Directions
-
-Is it possible to broaden this project to allow for framing your entire project in JSON before generating code?  This would allow for well thought out design and easily creating a starting point for building an application in a variety of languages.
-
 ## Authors
 
 **Cory Mawhorter**
