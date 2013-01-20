@@ -1,5 +1,5 @@
 {
-  "name": "helpermonkey",
+  "name": "raepsit",
   "version": "0.0.1",
   "description": "Takes a standardized JSON structure and generates stubbed servers, and full-featured clients in a variety of languages.",
   "keywords": [
@@ -19,6 +19,8 @@
   "main": "./lib/helpermonkey.js",
   "bin": "./bin/helpermonkey-cli.js",
   "dependencies": {
+    "hogan.js": ">=2.0",
+    "semver": ">=1.1"
   },
   "engines": {
     "node": ">=0.6"
