@@ -135,7 +135,7 @@ All languages will create files in a similar structure with a separation between
 
 By maintaining this separation, you will be able to entirely regenerate the API and isolate your code from the generated code.  As mentioned above, be sure to not overwrite these manually changed files in your helpermonkey.build callback.
 
-## Currently Available Targets
+## Language Targets
 
 I hope to expand this list to include all the biggies in both client and server.  Initially, this will be PHP, Javascript, C#, Python, Ruby, Java, command line (curl) and maybe C++ (in that order).  Check back soon.
 
