@@ -9,6 +9,8 @@ Writing boilerplate code sucks.  helpermonkey let's you write a generic API spec
 
 You create a generic API Specification in JSON and helpermonkey will generate REST servers and clients in any language you choose.
 
+helpermonkey is written entirely in javascript for node.js.
+
 ## API Specification
 
 Here's an example:
