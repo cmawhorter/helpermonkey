@@ -1,3 +1,5 @@
+NOTE:  Abandoned.  This is incomplete and there are better alternatives.  Leaving it up just because.  One example: https://github.com/wordnik/swagger-core
+
 helpermonkey
 ============
 
